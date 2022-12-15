@@ -14,11 +14,12 @@
 - [質問] Googlechartが上手くいかない原因が分からない
 - [感想] 今回の作業が実務でどう生かせるかを考えたい。
 - [参考記事] 
+1,
 https://qiita.com/H-Toshi/items/d548c92647a9ee30bc95
-
-3 Create a Bar Chart with Database Arrays | Chartjs Mysql Database Series - YouTube
+2,
+Create a Bar Chart with Database Arrays | Chartjs Mysql Database Series - YouTube
 ![image](https://user-images.githubusercontent.com/115796931/207815694-82a46c36-84e0-484d-a5d8-f288f78189e3.png
-
+3,
 以下については写経しても上手くいかず（汗）
 Using Google Charts with PHP - YouTube
 ![image](https://user-images.githubusercontent.com/115796931/207815754-479cb357-fbe8-42ae-af6e-2359be76e74c.png)
